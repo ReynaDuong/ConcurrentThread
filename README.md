@@ -1,5 +1,5 @@
-# Concurrent Thread
-Server - Client using Concurrent Thread
+# Server-Client Simulation
+Server - Client architecture using Concurrent Thread
 
 This project implements the concurrent thread to handle multiple clients at the same time.
 
